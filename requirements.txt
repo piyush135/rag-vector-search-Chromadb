@@ -1,0 +1,11 @@
+openai 
+chromadb 
+pandas 
+transformers 
+plotly 
+matplotlib 
+scipy 
+numpy
+streamlit
+openpyxl
+pyyaml

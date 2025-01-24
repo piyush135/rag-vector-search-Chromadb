@@ -1,0 +1,9 @@
+chroma_db_path: "./chroma_db"
+openai_api_key: "your_openai_api_key_here"
+embedding_model: "text-embedding-ada-002"
+gpt_model: "gpt-3.5-turbo"
+collections:
+  - "products"
+  - "distributors"
+  - "geo"
+  - "orders"
